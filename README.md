@@ -1,2 +1,2 @@
 # minicurso
-Minicurso Catalisa - Como consumir a API do Rick and Morty
+Minicurso do Catalisa - Como consumir a API do Rick and Morty

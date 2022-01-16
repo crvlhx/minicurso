@@ -25,6 +25,7 @@ main > section img {
     width: 250px
     ;
 }
+
 main > section button {
     background-color:#00008B;
     border: none;
@@ -35,8 +36,14 @@ main > section button {
     font-weight: 400;
     letter-spacing: -0,6px;
     line-height: 20px;
-    text-transform: uppercase;
     padding: 9px 23px;
-
+    text-transform: uppercase
 }
+
+#detalhes-container {
+    font-weight: bold;
+    list-style-type: none;
+    width: 90%;
+}
+
 }
